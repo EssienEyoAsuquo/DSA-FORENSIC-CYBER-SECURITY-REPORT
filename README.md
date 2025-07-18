@@ -1,3 +1,4 @@
+
 # DSA-FORENSIC-CYBER-SECURITY-REPORT
 ## PROJECT GOAL
 Analyzing an Android forensic image to produce a professional investigation report
@@ -16,8 +17,11 @@ Analyzing an Android forensic image to produce a professional investigation repo
 #Documenting findings 
 - Genrate report : Use Autopsy's built-in reporting feature to generate a comprehensive report of your findings.
 
+## SCREENSHOTS
 
-## CONCLUSION
+
+
+## FINDINGS AND CONCLUSION
 The Autopsy analysis of the Android image revealed significant evidence of suspicious SMS messages, call logs and application usage. This findings suggest that bro Sam 
 is involved in unauthorized activity.
 
