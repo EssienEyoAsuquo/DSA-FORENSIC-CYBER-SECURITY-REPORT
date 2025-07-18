@@ -33,3 +33,7 @@ is involved in unauthorized activity.
 ## PROFESSIONAL RECOMENDATIONS
 - Further investigation: Conduct further investigations to determine the extent of the potential security breach or unauthorized activity.
 - Data preservation: Ensure that all data is preserved and protected from potential tampering or deletion.
+
+## AUTHOR
+
+ESSIEN ASUQUO
