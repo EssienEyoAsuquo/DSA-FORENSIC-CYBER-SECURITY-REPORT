@@ -17,6 +17,10 @@ Analyzing an Android forensic image to produce a professional investigation repo
 #Documenting findings 
 - Genrate report : Use Autopsy's built-in reporting feature to generate a comprehensive report of your findings.
 
+# PDF DOWNLOAD OF FORENSIC
+
+
+
 ## SCREENSHOTS
 Call log screenshot
 <img width="1600" height="900" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/19acfef5-2d7e-404c-8dea-b3f5aceb16b9" />
